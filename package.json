@@ -1,6 +1,6 @@
 {
   "name": "tea05-armyben66",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "常用的表单验证",
   "main": "validateForm.js",
   "scripts": {
@@ -12,12 +12,7 @@
   },
   "devDependencies": {
   },
-    "keywords": [
-    "[\"email\"",
-    "\"form\"",
-    "\"validate\"",
-    "\"hp\"]"
-  ],
+    "keywords": [],
   "author": "Armyben66",
   "license": "ISC",
    "bugs": {
